@@ -1,0 +1,9 @@
+{
+  "name": "luafun",
+  "uuid": "06ce5606-8bec-430d-814b-335ce346507b",
+  "authors": [
+    "[rrhiemstar]rrhiemstar@gmail.com"
+  ],
+  "language": "lua",
+  "version": "v0.1.0"
+}
